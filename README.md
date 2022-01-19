@@ -1,4 +1,4 @@
-# Bootcamp-resources
+# Bootcamp Resources
 Tools, docs, and other resources
 
 
@@ -23,5 +23,9 @@ Tools, docs, and other resources
 - [Unit Testing - Python](https://www.youtube.com/watch?v=ymA7FmWR-40)
 
 ### NEAR
+- [https://near.org/](https://near.org/)
+- [https://near.org/developer-tools/](https://near.org/developer-tools/)
+- [https://www.near.university/](https://www.near.university/)
+- [https://github.com/near](https://github.com/near)
 
 ### Other
